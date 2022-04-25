@@ -29,16 +29,12 @@
 
 ## <a id='installation-instructions' href='#readme-badges'><img id='usage' src='https://i.imgur.com/ucpcjWg.png' style='height: 40px'></a>
 1) Run > npm i to install node packages 
-2) Run mysql commands to create and seed databases 
-3)Add env file with DB_USER='' DB_PW='' DB_NAME='travelTrusteeTravelPals_db' 
-4)Run > npm start to begin program
+2) 
+3) 
+4) Run > npm start to begin program
 
 ## <a id='usage-info' href='#readme-badges'><img id='usage' src='https://i.imgur.com/erC9rgJ.png' style='height: 40px'></a>
-1) Navigate to db folder in terminal 
-2) Login to mysql with `mysql -u root -p` 
-3) Run `SOURCE schema.sql` 
-4) `quit` mysql server 
-5) Run `npm run seed` 
+1) 
 6) Run `npm start`
 
 ## <a id='contribution-guide' href='#readme-badges'><img id='usage' src='https://i.imgur.com/ZtAN77x.png' style='height: 35px'></a>
