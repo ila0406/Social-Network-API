@@ -1,6 +1,6 @@
 ## GitHub Repository & Walkthrough
 * https://github.com/ila0406/Social-Network-API
-* https://
+* https://drive.google.com/drive/u/0/folders/1ENgTDU_FRk3H0R3FtJubHOmCIiuFHNvU
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
